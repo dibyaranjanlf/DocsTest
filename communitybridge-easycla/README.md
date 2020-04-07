@@ -1,4 +1,4 @@
-# Introduction to EasyCLA
+# EasyCLA
 
 ​[​![CircleCI](https://circleci.com/gh/communitybridge/easycla.svg?style=svg)​](https://circleci.com/gh/communitybridge/easycla)​
 
