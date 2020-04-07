@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Linux Foundation Product Documentation](README.md)
-* [CommunityBridge User Account](communitybridge-account/README.md)
+* [CommunityBridge User Account]
+  * [Account details]((communitybridge-account/README.md))
   * [CommunityBridge FAQs](communitybridge-account/communitybridge-faqs.md)
   * [Create a Linux Foundation Account](communitybridge-account/create-a-linux-foundation-account.md)
   * [Login to CommunityBridge](communitybridge-account/login-to-communitybridge.md)
