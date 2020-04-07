@@ -17,7 +17,7 @@ Designated **beneficiaries** get reimbursed for their support of open source com
 
 You can participate by applying and submitting your open source project to receive funding through the CommunityBridge platform, as well as by donating to projects, and sponsoring events and travel scholarships.
 
-**Note:** You must have an [account](../communitybridge/create-a-linux-foundation-account.md) or log in to [CommunityBridge Funding](https://funding.communitybridge.org/) website to participate. For details, please see [Login to CommunityBridge](../communitybridge/login-to-communitybridge.md).
+**Note:** You must have an [account](../communitybridge-account/create-a-linux-foundation-account.md) or log in to [CommunityBridge Funding](https://funding.communitybridge.org/) website to participate. For details, please see [Login to CommunityBridge](../communitybridge-account/login-to-communitybridge.md).
 
 **As an individual/project administrator**, you can [apply](https://docs.linuxfoundation.org/docs/communitybridge-funding/apply-for-funding) to raise funds for your project by submitting an application for your GitHub or Git-based project. After your project is approved by the Linux Foundation, it will be visible on the [CommunityBridge Funding](https://funding.communitybridge.org/) dashboard under [Projects and Mentorships](https://docs.linuxfoundation.org/docs/communitybridge-funding/dashboard/projects-and-mentorships) tab. You can apply for event funding or a travel scholarships by submitting an Event or a Travel Scholarship application form.
 

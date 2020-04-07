@@ -2,7 +2,7 @@
 
 CommunityBridge Mentorship is a platform that offers a structured remote learning program for individuals. Experienced open source project professionals mentor aspiring individuals and help them contribute to the open source community. Linux Foundation matches a percentage of funds for the first 100 mentees from diverse backgrounds to help projects improve the diversity of their communities. Mentees gain real world experience by working closely with mentors. Companies can hire Mentorship program graduates to expand their workforce.
 
-**Note:** You must have an [account](../communitybridge/create-a-linux-foundation-account.md) or log in to [CommunityBridge Mentorship](https://people.communitybridge.org/) website to participate in the Mentorship programs. For details, see [Login to CommunityBridge](../communitybridge/login-to-communitybridge.md).
+**Note:** You must have an [account](../communitybridge-account/create-a-linux-foundation-account.md) or log in to [CommunityBridge Mentorship](https://people.communitybridge.org/) website to participate in the Mentorship programs. For details, see [Login to CommunityBridge](../communitybridge-account/login-to-communitybridge.md).
 
 You can participate in Mentorship program based on your role. CommunityBridge Mentorship supports the following roles:
 
