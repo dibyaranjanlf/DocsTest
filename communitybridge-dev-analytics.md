@@ -4,4 +4,3 @@ CommunityBridge Dev Analytics is a centralized platform that collects and visual
 
 ## Get Started <a id="DevAnalyticsGettingStarted-GetStarted"></a>
 
-* * * * * * * * 
