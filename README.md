@@ -8,7 +8,7 @@ Linux Foundation provides a platform to support the sustainability of open sourc
 
 #### ​[CommunityBridge Mentorship](communitybridge-mentorship/)​
 
-#### ​[CommunityBridge Dev Analytics](communitybridge-dev-analytics.md)​
+#### ​[CommunityBridge Dev Analytics](communitybridge-dev-analytics/)​
 
-#### ​[CommunityBridge Security](communitybridge-security.md)​
+#### ​[CommunityBridge Security](communitybridge-security/)​
 
