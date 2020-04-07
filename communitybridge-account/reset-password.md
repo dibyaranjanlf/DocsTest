@@ -10,7 +10,7 @@ If you do not remember your Linux Foundation login password or need to reset it,
 4. Click **Reset Password**.
 5. Enter your new password and confirm it in the Change Password page. Click **Submit**. 
 
-![](../communitybridge-account/img/change-paasword.png) 
+![](https://github.com/dibyaranjanlf/DocsTest/blob/master/communitybridge-account/img/change%20paasword.png) 
 
 The status bar confirms that your password is updated.
 
