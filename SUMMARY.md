@@ -10,7 +10,7 @@
   * [Contact CommuntiyBridge Support](communitybridge-account/contact-communtiybridge-support.md)
  * [CommunityBridge Funding Test Doc](Funding/README.md)
    * [Demo Test Topic](Funding/demo-topic.md)
-   * [Parent Folder for Demo](Funding/parent-folder/)
+   * [Parent Folder for Demo](Funding/Parent-Folder/)
     * [Demo Child Topic1](Funding/parent-folder/demo1.md)
     * [Demo Child Topic2](Funding/Parent-Folder/demo2.md)
 * [CommunityBridge Mentorship](communitybridge-mentorship/README.md)
